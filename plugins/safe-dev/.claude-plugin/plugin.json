@@ -1,6 +1,6 @@
 {
   "name": "safe-dev",
   "description": "変更後にテストを走らせて報告するスキルと、rm -rf を止める hook",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": { "name": "zundamon" }
 }
