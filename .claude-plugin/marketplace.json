@@ -1,0 +1,12 @@
+{
+  "name": "ccadv-sample",
+  "description": "Claude Code入門（応用編）のサンプルマーケットプレイス",
+  "owner": { "name": "zundamon" },
+  "plugins": [
+    {
+      "name": "safe-dev",
+      "source": "./plugins/safe-dev",
+      "description": "テスト報告スキル＋rm -rf を止める hook"
+    }
+  ]
+}
